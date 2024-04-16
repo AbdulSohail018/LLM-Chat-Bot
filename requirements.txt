@@ -1,4 +1,8 @@
-pymupdf
+PyMuPDF
+pdf2image
+Pillow
+pytesseract
+langchain
 langchain-google-genai
 faiss-cpu
 python-dotenv
